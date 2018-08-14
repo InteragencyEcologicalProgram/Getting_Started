@@ -24,9 +24,14 @@ Open science isn't just one thing. It's up to each team to decide how open they 
       1. Section 2: The Interface
       1. Section 3 (just the basics, not the SVG fill section): Creating a Basic Map
       1. Section 6 (through 6.2.2): Creating Vector Data
+   1. Version Control
+      1. Version Control Basics: https://nceas.github.io/oss-lessons/version-control/1-git-basics.html
+      1. Using Git with RStudio: https://nceas.github.io/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html
+      1. Advanced Git: https://nceas.github.io/oss-lessons/version-control/3-git-advanced.html
    1. GitHub (in general): https://guides.github.com/ 
       1. Understanding the GitHub Flow: https://guides.github.com/introduction/flow/
 	  1. Forking Projects: https://guides.github.com/activities/forking/
+	  1. Git and GitHub as Collaborative Tools: https://nceas.github.io/oss-lessons/version-control/2-git-remote-collaboration.html
    1. GitHub Desktop: https://help.github.com/desktop/
 
 1. __More Learning__:
