@@ -10,6 +10,7 @@ If you're a scientst who is working on a project in the IEP Work Plan, you might
 1. You may also want to check your agency/organization/school's policies on data sharing rights and requirements.
 
 ## Resources
+Open science isn't just one thing. It's up to each team to decide how open they want their process to be and what's practical for their project. Teams may decide to start with proprietary tools and move towards more open tools in the future. Below are a few resources on open tools. We may update these from time to time as we find new and useful tools or resources.
 1. __Open Source Tools__:
    1. Data processing, manipulation and visualization; statistics: 
       1. [R](https://cran.r-project.org/) or [RStudio](https://www.rstudio.com/)
