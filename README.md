@@ -7,6 +7,7 @@ If you're a scientst who is working on a project in the IEP Work Plan, you might
 ## Tasks Before You Get Started:
 1. If you don't already have one, __set up your GitHub Account__:  https://help.github.com/articles/signing-up-for-a-new-github-account/ 
    * It is good practice to use a professional string for your user name that your colleagues will be able to use to easily idenfity you.
+1. You may also want to check your agency/organization/school's policies on data sharing rights and requirements.
 
 ## Resources
 1. __Open Source Tools__:
