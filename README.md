@@ -7,6 +7,8 @@ If you're a scientst who is working on a project in the IEP Work Plan, you might
 ## Tasks Before You Get Started:
 1. If you don't already have one, __set up your GitHub Account__:  https://help.github.com/articles/signing-up-for-a-new-github-account/ 
    * It is good practice to use a professional string for your user name that your colleagues will be able to use to easily idenfity you.
+1. Request to join the IEP Organization. Send an email to vanessadtobias@gmail.com with your user name and how you're affiliated with IEP.
+   * After you join, consider setting your visibility to "public" so other collaborators can see you. Go to the IEP-Open-Synthesis page and click the "people" tab. You should see the setting next to your name and picture.
 1. You may also want to check your agency/organization/school's policies on data sharing rights and requirements.
 
 ## Resources
