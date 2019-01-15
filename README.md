@@ -36,10 +36,6 @@ Open science isn't just one thing. It's up to each team to decide how open they 
 	  1. Git and GitHub as Collaborative Tools: https://nceas.github.io/oss-lessons/version-control/2-git-remote-collaboration.html
    1. GitHub Desktop: https://help.github.com/desktop/
    1. Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-1. __More Learning__:
-   1. GeoJSON Files: http://geojson.org/
-   1. Public Land Survey System (PLSS): https://nationalmap.gov/small_scale/a_plss.html
    
 ## Getting Help
 Don't hesitate to ask questions as you're getting started or at any point in the process.
