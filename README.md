@@ -1,5 +1,5 @@
 # Getting Started
-A Guide for the Very Beginner
+NEWS: The IEP recently changed the name of its organization on GitHub. If you have a copy of a repository on your computer, you will need to update your remote settings. Forks on GitHub should be unaffected.
 
 ## Introduction
 If you're a scientst who is working on a project in the IEP Work Plan, you might consider creating a GitHub repository to share your progress and products. Here, we try to share some resources to help you get started. Of course, you're welcome to use any tools that make sense for you, your research group, and/or your agency. These are just some of the open source tools that IEP researchers are using.
