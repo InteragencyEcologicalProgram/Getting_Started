@@ -11,6 +11,9 @@ If you're a scientst who is working on a project in the IEP Work Plan, you might
    * After you join, consider setting your visibility to "public" so other collaborators can see you. Go to the IEP-Open-Synthesis page and click the "people" tab. You should see the setting next to your name and picture.
 1. You may also want to check your agency/organization/school's policies on data sharing rights and requirements.
 
+## Open Data - Publishing Data on EDI
+The DUWG has a GitHub repository (https://github.com/InteragencyEcologicalProgram/IEP-to-EDI-Publishing) with resources to help you publish your data with the Environmental Data Initiative ([EDI](https://environmentaldatainitiative.org/)). 
+
 ## Resources
 Open science isn't just one thing. It's up to each team to decide how open they want their process to be and what's practical for their project. Teams may decide to start with proprietary tools and move towards more open tools in the future. Below are a few resources on open tools. We may update these from time to time as we find new and useful tools or resources.
 1. __Open Source Tools__:
