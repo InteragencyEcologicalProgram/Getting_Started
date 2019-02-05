@@ -12,7 +12,7 @@ If you're a scientst who is working on a project in the IEP Work Plan, you might
 1. You may also want to check your agency/organization/school's policies on data sharing rights and requirements.
 
 ## Open Data - Publishing Data on EDI
-The DUWG has a GitHub repository (https://github.com/InteragencyEcologicalProgram/IEP-to-EDI-Publishing) with resources to help you publish your data with the Environmental Data Initiative ([EDI](https://environmentaldatainitiative.org/)). 
+The IEP Data Utilization Workgroup (DUWG) has a GitHub repository (https://github.com/InteragencyEcologicalProgram/IEP-to-EDI-Publishing) with instructions and templates to help you publish your data with the Environmental Data Initiative ([EDI](https://environmentaldatainitiative.org/)). 
 
 ## Resources
 Open science isn't just one thing. It's up to each team to decide how open they want their process to be and what's practical for their project. Teams may decide to start with proprietary tools and move towards more open tools in the future. Below are a few resources on open tools. We may update these from time to time as we find new and useful tools or resources.
